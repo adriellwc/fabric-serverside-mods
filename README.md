@@ -226,7 +226,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Disable Elytra Flight](https://www.curseforge.com/minecraft/mc-mods/disable-elytra-flight)
 - [Survival Flight](https://www.curseforge.com/minecraft/mc-mods/survival-flight)
 - [BeaconFlight](https://www.curseforge.com/minecraft/mc-mods/beaconflight) (outdated)
-
+- [Walaryne's Fly Mod](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod)
 ### Minecarts
 - [Speed Carts](https://www.curseforge.com/minecraft/mc-mods/speed-carts)
 - [TaterCart](https://modrinth.com/mod/tatercart)
@@ -411,7 +411,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
 - [Hewo](https://www.curseforge.com/minecraft/mc-mods/hewo)
 - [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
-- [Walaryne's Fly Mod](https://www.curseforge.com/minecraft/mc-mods/walarynes-flymod)
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
 - [Tagboard](https://www.curseforge.com/minecraft/mc-mods/tagboard)
 - [Sewing Machine Utilities](https://www.curseforge.com/minecraft/mc-mods/sewing-machine-utilities)
