@@ -573,7 +573,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Fabric Console](https://www.curseforge.com/minecraft/mc-mods/fabric-console)
 - [Shut Up Console](https://www.curseforge.com/minecraft/mc-mods/shut-up-console)
 - [Clean Logs](https://modrinth.com/mod/clean-logs) (fork of Shut Up Console)
-- [Translated Server Log](https://www.curseforge.com/minecraft/mc-mods/translated-server-log)
+- [Server Translations](https://www.curseforge.com/minecraft/mc-mods/server-translations) (previously Translated Server Log)
 - [mclo.gs](https://www.curseforge.com/minecraft/mc-mods/mclo-gs)
 - [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 - [BadStdOut](https://modrinth.com/mod/badstdout)
