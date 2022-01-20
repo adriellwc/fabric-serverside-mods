@@ -404,6 +404,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Rich Chat](https://github.com/Ashley1227/rich-chat)
 - [SetPlayerData](https://www.curseforge.com/minecraft/mc-mods/setplayerdata)
 - [FabricTailor](https://www.curseforge.com/minecraft/mc-mods/fabrictailor)
+- [SkinRestorer](https://www.curseforge.com/minecraft/mc-mods/skinrestorer)
 - [Gestus](https://www.curseforge.com/minecraft/mc-mods/gestus)
 - [Image2Map](https://www.curseforge.com/minecraft/mc-mods/image2map)
 - [Chat History](https://www.curseforge.com/minecraft/mc-mods/chat-history)
