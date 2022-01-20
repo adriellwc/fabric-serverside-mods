@@ -622,6 +622,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Wires](https://www.curseforge.com/minecraft/mc-mods/wires) (previously Server Simplified)
 - [LuckPerms](https://modrinth.com/mod/luckperms)
 - [Better Op](https://modrinth.com/mod/better-op)
+- [Cyber Permissions](https://www.curseforge.com/minecraft/mc-mods/cyber-permissions)
 
 ### Proxy forwarding (BungeeCord/Waterfall/Velocity)
 - [CrossStitch](https://www.curseforge.com/minecraft/mc-mods/crossstitch)
