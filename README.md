@@ -122,7 +122,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ### Combat
 - [CombatEdit](https://www.curseforge.com/minecraft/mc-mods/combatedit)
 - [Headshot](https://www.curseforge.com/minecraft/mc-mods/headshot)
-- [YouCantDamageMe](https://www.modrinth.com/mod/YouCantDamageMe)
 - [PvP toggle](https://github.com/manyrandomthings/pvp-toggle)
 - [AttackSpeedPlus](https://www.curseforge.com/minecraft/mc-mods/attackspeedplus-fabric)
 - [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)
