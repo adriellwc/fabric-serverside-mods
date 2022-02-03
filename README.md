@@ -16,7 +16,6 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 - [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Krypton](https://github.com/astei/krypton)
 - [Starlight](https://modrinth.com/mod/starlight)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
@@ -38,6 +37,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [DimensionalThreading](https://github.com/WearBlackAllDay/DimensionalThreading) (experimental)
 - [ServerCore](https://modrinth.com/mod/servercore)
 - [Ksyxis](https://modrinth.com/mod/ksyxis)
+- [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 
 ## Bugfixes
@@ -76,6 +76,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Creative One-Punch](https://modrinth.com/mod/creative-one-punch)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [HealthCare](https://modrinth.com/mod/healthcare)
+- [Lakotnik - Hunger Preview](https://www.curseforge.com/minecraft/mc-mods/lakotnik-hunger-preview) ([Modrinth](https://modrinth.com/mod/lakotnik))
 - [Playtime Tracker](https://modrinth.com/mod/playtime-tracker)
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
@@ -206,6 +207,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Epic Horse Breed](https://modrinth.com/mod/epic-horse-breed)
 - [Creeper AI Updated](https://modrinth.com/mod/creeper-ai-updated)
 - [No Mob Farms](https://www.curseforge.com/minecraft/mc-mods/no-mob-farm)
+- [Mob Filter](https://www.curseforge.com/minecraft/mc-mods/mob-filter)
 
 ### Villagers
 - [VillagerFix](https://www.curseforge.com/minecraft/mc-mods/villagerfix)
@@ -349,6 +351,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Server Backpacks](https://modrinth.com/mod/servback)
 - [JankAddons](https://modrinth.com/mod/jankaddons)
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
+- [Waystones (Polymer Port)](https://modrinth.com/mod/polymer-ports-waystones)
 
 ### Cauldrons
 - [Easier Powdered Snow](https://modrinth.com/mod/easierpowdersnow)
@@ -485,6 +488,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [BineClaims](https://modrinth.com/mod/bineclaims)
 - [Factions](https://modrinth.com/mod/factions)
 - [SpawnProtectionTweaks](https://modrinth.com/mod/spawn-protection-tweaks)
+- [Get Off My Lawn ReServed](https://modrinth.com/mod/goml-reserved)
 
 ## Inventory
 - [Lootstrap](https://www.curseforge.com/minecraft/mc-mods/lootstrap)
@@ -600,7 +604,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 
 ### Tab List modifications
 - [Fabric Tab List](https://modrinth.com/mod/tab)
-- [Styled Player List](https://modrinth.com/mod/styledplayerlist) (also see [BoxOfPlaceholders](https://modrinth.com/mod/BoxOfPlaceholders))
+- [Styled Player List](https://modrinth.com/mod/styledplayerlist)
 - [TabTPS](https://modrinth.com/mod/tabtps)
 
 ### Backups
