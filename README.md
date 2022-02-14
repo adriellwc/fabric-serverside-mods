@@ -43,7 +43,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 ## Bugfixes
 - [Dispenser Portal Fix](https://modrinth.com/mod/dispenser-portal-fix) or [DFASCF](https://github.com/alkyaly/DFASCF) (fixed by 1.16.5)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Fixes](https://github.com/fxmorin/carpet-fixes)
 - [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Dimension Mutability](https://www.curseforge.com/minecraft/mc-mods/dimension-mutability) (untested)
 - [Carpet TIS Addition](https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition)
@@ -102,6 +101,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Tree Felling](https://modrinth.com/mod/treefelling)
 
 ### Sleep (Voting/Acceleration/etc)
+- [SleepWarp](https://www.curseforge.com/minecraft/mc-mods/sleep-warp)
 - [BetterSleeping](https://www.curseforge.com/minecraft/mc-mods/bettersleeping)
 - [BetterSleeping Revived](https://modrinth.com/mod/bettersleeping-revived)
 - [Hypnos](https://www.curseforge.com/minecraft/mc-mods/hypnos)
@@ -307,6 +307,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Anvil Crush](https://modrinth.com/mod/anvil-crush)
 - [DeepslateGenerator](https://modrinth.com/mod/deepslategenerator)
 - [Hardened Crops](https://modrinth.com/mod/hardened-crops)
+- [Copper Hopper](https://www.curseforge.com/minecraft/mc-mods/copper-hopper)
 
 ### New Game Mechanics
 - [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling-fabric)
