@@ -80,6 +80,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [EditSign](https://modrinth.com/mod/editsign)
 - [Egg Of Capitalism](https://modrinth.com/mod/egg-of-capitalism)
 - [Easy Painter](https://modrinth.com/mod/easy_painter)
+- [Polydex](https://modrinth.com/mod/polydex)
 
 ### Cosmetic
 - [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience) (with resource pack)
@@ -393,6 +394,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Realistic Fishing](https://modrinth.com/mod/fishing)
 
 ## Commands/Chat
+- [Aliases](https://www.curseforge.com/minecraft/mc-mods/aliases)
 - [simplechat.](https://www.curseforge.com/minecraft/mc-mods/simplechat) (outdated)
 - [Text Coloriser Plugin](https://www.curseforge.com/minecraft/mc-mods/text-coloriser-plugin)
 - [MaskOfLoki's Fabric Tweaks](https://www.curseforge.com/minecraft/mc-mods/maskoflokis-fabric-tweaks) (outdated)
